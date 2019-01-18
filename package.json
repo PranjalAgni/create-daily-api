@@ -9,6 +9,10 @@
   "bin": {
     "create-daily-api": "./index.js"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/PranjalAgni/create-daily-api.git"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
